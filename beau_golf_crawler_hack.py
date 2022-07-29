@@ -1,10 +1,4 @@
 
-# email = "mytalents13@gmail.com"
-# password = "bethpagegolf"
-# email = "beaulardner@aol.com"
-# password = "Beau1991"
-#pip3 install -r requirements.txt for installation
-
 #BGCH is a web crawler that leverages selenium to retrieve tee times faster than other web traffic.
 class BGCH():
 
